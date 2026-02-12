@@ -1,0 +1,20 @@
+{
+  "name": "openclaw-skill-security-dashboard",
+  "version": "1.2.1",
+  "description": "Real-time security monitoring dashboard for OpenClaw and Linux server infrastructure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "install-service": "bash scripts/install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebyteio/openclaw-skill-security-dashboard"
+  },
+  "keywords": ["openclaw", "security", "monitoring", "dashboard"],
+  "author": "Brian Christner",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
