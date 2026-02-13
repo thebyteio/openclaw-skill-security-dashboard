@@ -1,6 +1,6 @@
-# Security Dashboard
+# OpenClaw Security Dashboard
 
-Real-time security monitoring dashboard for OpenClaw and Linux server infrastructure. Monitors 7 critical security areas with automated 4x daily checks and instant alerts for issues like inactive firewalls, fail2ban problems, and public exposure.
+This is a Real-time security monitoring dashboard for your OpenClaw and Linux server infrastructure. The dashboard Monitors 7 critical security areas with automated 4x daily checks and instant alerts for issues like inactive firewalls, fail2ban problems, and public exposure. 
 
 ![Security Dashboard Screenshot](images/dashboard-screenshot.jpg)
 
